@@ -20,7 +20,6 @@ The **FAQ Accordion** is a web application designed to display frequently asked 
 - **CSS**: Styles the application to create a clean and responsive design.
 - **JavaScript**: Manages the interactive elements, including expanding and collapsing answers and toggling icons.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
