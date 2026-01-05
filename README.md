@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/FAQ-Accordion.git
+    git clone https://github.com/abhishekgurjarin/FAQ-Accordion.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the FAQ Accordion project [here](https://abhishekboadgurjar.github.io/FAQ-Accordion/).
+You can check out the live demo of the FAQ Accordion project [here](https://abhishekgurjarin.github.io/FAQ-Accordion/).
 
 ## Screenshots
 
@@ -66,4 +66,4 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
